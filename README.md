@@ -2,8 +2,9 @@
 simple design of a boost converter PCB in kicad
 
 
-```markdown
 ## Repository Structure
+
+```markdown
 
 ```text
 ├── docs/                               # General Documentation  
